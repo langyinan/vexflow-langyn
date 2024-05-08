@@ -1,5 +1,5 @@
 {
-  "name": "vexflow",
+  "name": "vexflow-langyn",
   "version": "4.2.3",
   "description": "A JavaScript library for rendering music notation and guitar tablature.",
   "exports": {
@@ -86,8 +86,8 @@
     "url": "https://github.com/0xfe/vexflow/issues"
   },
   "devDependencies": {
-    "@types/qunit": "^2.19.5",
     "@types/node": "^18.16.3",
+    "@types/qunit": "^2.19.5",
     "@typescript-eslint/eslint-plugin": "^5.59.2",
     "@typescript-eslint/parser": "^5.59.2",
     "canvas": "^2.11.2",
